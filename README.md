@@ -92,4 +92,4 @@ Security tools I'm exploring:
 </p>
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/AjmalAchu2005/AjmalAchu2005/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AjmalAchu2005/AjmalAchu2005/blob/output/github-contribution-grid-snake-dark.svg)
